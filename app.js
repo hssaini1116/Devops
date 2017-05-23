@@ -1,1 +1,1 @@
-ole.log('Hell0')
+console.log('Hell0')
